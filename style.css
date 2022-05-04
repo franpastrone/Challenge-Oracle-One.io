@@ -1,0 +1,149 @@
+    body{
+    background: #f3f5fc;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container{
+    margin: auto;
+    width:960px;
+    height: 650px;
+    padding:5px;
+}
+
+.logo{
+    width: 100%;
+    float: left;
+}
+
+.logo-img{
+    margin-top: 1%;
+    float: inherit;
+    margin-left: 5%;
+}
+
+.titulo{
+        float: inherit;
+        margin-left: 10%;
+        font-size: 3em;
+}
+
+.izquierda{
+    float: left;
+    width: 70%;
+    height: 70%;
+    border-radius: 10px;
+}
+.ingresar-texto{
+    float: left;
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 80%;
+    height: 80%;
+    color: #0A3871;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    background: #f3f5fc;
+}
+
+.derecha{
+    float: right;
+    width: 30%;
+    height: auto;
+    border-radius: 10px;
+    background: white;
+}
+
+#imagenderecha{
+    margin-left: 2%;
+    margin-top: 20%;
+    width: 90%;
+    height: auto;
+}
+
+#texto{
+    margin-left: 7%;
+    margin-right: 5%;
+}
+
+#texto2{
+    float: left;
+    margin-top: 10%;
+    margin-left: 5%;
+    color: #0A3871;
+    width: 80%;
+    height: 60%;
+    border: none;
+    outline: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+
+.boton-izq{
+    float: left;
+    width: 70%;
+    height: auto;
+    border-radius: 10px;
+    border: none;
+}
+
+.boton-izq p{
+    margin-bottom: 20px;
+}
+
+
+#btn-encriptar{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 10px;
+    margin-left: 15%;
+    background: #0A3871;
+    font-size: 15px;
+    font-weight: bold;
+    border-color: #0A3871;
+    color: white;
+}
+
+#btn-encriptar:hover{
+    background: rgb(5, 72, 171);
+}
+
+#btn-desencriptar{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 10px;
+    margin-left: 10%;
+    background: #D8DFE8;
+    font-size: 15px;
+    font-weight: bold;
+    border-color: #0A3871;
+}
+
+#btn-desencriptar:hover{
+    background: rgb(10, 40, 70);
+    color: white;
+}
+
+#copiar{
+    margin-left: 33%;
+    margin-top: 90%;
+    padding: 24px;
+    width: 40%;
+    height: 10%;
+    background: #D8DFE8;
+    border-radius: 10px;
+    display: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    padding:30px;
+}

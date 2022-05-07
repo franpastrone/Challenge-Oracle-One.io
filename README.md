@@ -12,4 +12,9 @@ El resultado debe ser mostrado en la pantalla.
 
 Éste proyecto cuenta con un diseño más personalizado. Incorporando algunas animaciones sencillas, efectos visuales, pequeños ajustes que facilitan la experiencia del usuario y un diseño adaptable a diferentes dispositivos.
 
-- Primer Desafio - [link](https://www.aluracursos.com/challenges/oracle-one)
+- Primer Desafio - **[Link](https://www.aluracursos.com/challenges/oracle-one)**
+
+Vamos por mas. Saludos.
+
+Francisco
+

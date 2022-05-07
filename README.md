@@ -1,5 +1,5 @@
-# Challenge-Oracle-One
-Replicando un encriptador de texto con Javascript - para Oracle One - Alura
+## Challenge Oracle One
+**Replicando un encriptador de texto con Javascript - para Oracle One - Alura**
 
 El desafío consiste en encriptar el texto ingresado por el usuario y así poder intercambiar mensajes secretos con otros usuarios que conozcan la encriptación utilizada.
 Tiene como requisitos:
@@ -12,5 +12,4 @@ El resultado debe ser mostrado en la pantalla.
 
 Éste proyecto cuenta con un diseño más personalizado. Incorporando algunas animaciones sencillas, efectos visuales, pequeños ajustes que facilitan la experiencia del usuario y un diseño adaptable a diferentes dispositivos.
 
-
-https://www.aluracursos.com/challenges/oracle-one
+- Primer Desafio - [link](https://www.aluracursos.com/challenges/oracle-one)
